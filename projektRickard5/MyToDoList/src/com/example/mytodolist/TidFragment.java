@@ -49,7 +49,7 @@ public class TidFragment extends ListFragment{
 	/*************************VISSA BITAR******************************/
 		// Hejsan!
 	private DatabaseHandler db;
-	
+	//JAg brunkade innan jag kom hit
 	private static final String TABLE_BANDS = "bands";
 	private static final String TABLE_PLAYLIST = "playlist";
 	final static String TAG_1 = "FRAGMENT_1";
