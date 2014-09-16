@@ -45,7 +45,7 @@ import android.widget.AdapterView.OnItemLongClickListener;
 
 public class TidFragment extends ListFragment{
 	
-
+		//Här skrev micke väldigt nyss
 	/*************************VISSA BITAR******************************/
 
 	private DatabaseHandler db;
