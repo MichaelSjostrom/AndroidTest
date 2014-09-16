@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Festivalapp</string>
+    <string name="app_name2">Funkar</string>
+    <string name="action_settings">Settings</string>
+    <string name="home">ss</string>
+    <string name="search_title">Search</string>
+    <string name="search_hint">Search bandname..</string>
+    <string name="band1">Band</string>
+    <string name="name">ListViewBaseAdapter</string>
+    <string name="action_search">Search</string>
+    <string name="image">Thumbnail</string>
+	
+	<string name="metallica">
+	 
+		<![CDATA[
+			<b>Year: </b>1981-present <br/>
+			<b>Genres: </b>Heavy metal, thrash metal, speed metal <br/>
+			<b>Lables: </b><a href="url"> Blackened, Rhino, Universal Music</a><br/>
+			<b>History: </b><span>Metallica is an American heavy metal band from Los Angeles, California. The bands fast tempos, instrumentals, and aggressive musicianship placed</span>
+			<span>them as one of the founding "big four" of thrash metal alongside <br/> Slayer, Megadeth, and Anthrax </span>
+			
+			]]>
+	</string>
+	<string name="amydiamond">
+	    <![CDATA[
+			<b>Year: </b>2005-present <br/>
+			<b>Genres: </b>Pop, christmas, acoustic <br/>
+			<b>Lables: </b><a href="url"> Bonnier Amigo Music Group</a><br/>
+			<b>History: </b><span>Amy Diamond is a Swedish popmusican, actor and singer-songwriter from Norrköping. She is known for her single "What's in it for Me" and album "This Is Me Now which were released when she was 12 years old.</span>
+						
+			]]>
+	</string>
+	<string name="justinbieber">
+		<![CDATA[
+			<b>Year: </b>2008-present <br/>
+			<b>Genres: </b>Pop, R&B, teen pop<br/>
+			<b>Lables: </b><a href="url"> Island, Teen Island, RBMG, School Boy</a><br/>
+			<b>History: </b><span>Justin Drew Bieber is a Canadian pop musician, actor, and singer-songwriter. Bieber was discovered in 2008 by American talent manager Scooter Braun. His track "My World" was certified platinum in the US.</span>
+			
+			
+			]]>
+	</string>
+	<string name="thebeatles">
+				<![CDATA[
+			<b>Year: </b>1960-1970 <br/>
+			<b>Genres: </b>Rock, pop<br/>
+			<b>Lables: </b><a href="url"> Parlophone, Swan, Vee-Jay, Capitol, United Artists, Apple</a><br/>
+			<b>History: </b><span>The Beatles were an English rock band that formed in Liverpool, in 1960. With John Lennon, Paul McCartney, George Harrison, and Ringo Starr, they became widely regarded as the greatest and most influential act of the rock era.</span>
+			
+			
+			]]>
+	</string>
+	<string name="greenday">
+				<![CDATA[
+			<b>Year: </b>1987-present<br/>
+			<b>Genres: </b>Punk rock, pop punk, alternative rock<br/>
+			<b>Lables: </b><a href="url"> Lookout, Reprise</a><br/>
+			<b>History: </b><span>Green Day is an American punk rock band formed in 1987. The band consists of lead vocalist and guitarist Billie Joe Armstrong, bassist and backing vocalist Mike Dirnt, drummer Tré Cool and guitarist and backing vocalist Jason White, who became a full member after playing in the band as a session and touring guitarist for 13 years</span>
+			
+			]]>
+	</string>
+	<string name="avicii">
+				<![CDATA[
+			<b>Year: </b>2006-present<br/>
+			<b>Genres: </b>House, electro house, tech house<br/>
+			<b>Lables: </b><a href="url">Island, LE7ELS, Vicious, Big Beat, Ultra</a> etc.<br/>
+			<b>History: </b><span>Tim Bergling better known by his stage name Avicii is a Swedish DJ, remixer, and record producer. He has been nominated twice for a Grammy Award for his work on "Sunshine" with David Guetta in 2012 and in 2013 for his song "Levels".</span>
+			
+			]]>
+	</string>
+	<string name="blacksabbath">
+				<![CDATA[
+			<b>Year: </b>1968-present<br/>
+			<b>Genres: </b>Heavy metal<br/>
+			<b>Lables: </b><a href="url">Vertigo, Warner Bros, I.R.S, Sanctuary</a>etc.<br/>
+			<b>History: </b><span>Black Sabbath are an English rock band, formed in Birmingham in 1968, by guitarist Tony Iommi, bassist Geezer Butler, singer Ozzy Osbourne, and drummer Bill Ward. The band has since experienced multiple line-up changes.</span>
+			
+			]]>
+	</string>
+	<string name="eddiemeduza">
+				<![CDATA[
+			<b>Year: </b>1964-2002<br/>
+			<b>Genres: </b>Rockabilly, Dansband music<br/>
+			<b>Lables: </b>UNKNOWN<br/>
+			<b>History: </b><span>Eddie Meduza, real name Errol Leonard Norstedt, was a Swedish composer and musician working mainly in the rockabilly genre. Many of his songs were about alcohol, women, and cars, often with obscene lyrics.</span>
+			
+			]]>
+	</string>
+	<string name="korn">
+				<![CDATA[
+			<b>Year: </b>1993-present<br/>
+			<b>Genres: </b>Metal, alternative metal<br/>
+			<b>Lables: </b>Prospect park, Caroline, Roadrunner, Virgin, Epic, Immortal<br/>
+			<b>History: </b><span>Korn is an American nu metal band from Bakersfield, California, formed in 1993. Korn was originally formed by three of the members of the band L.A.P.D.</span>
+			
+			]]>
+	</string>
+	
+	<string name="rammstein">
+			<![CDATA[
+		<b>Year: </b>1994-present<br/>
+		<b>Genres: </b>Industrial metal<br/>
+		<b>Lables: </b>Motor Music/Universal, Vagrant, Slash/London/PolyGram Records<br/>
+		<b>History: </b><span>Rammstein is an German metalband from Berlin. The band was formed in 1994 and consists of four members. Since their formation in 1994, Rammstein has had no changes in their band line-up.</span>
+		
+		]]>
+	</string>
+	
+		<string name="thehives">
+			<![CDATA[
+		<b>Year: </b>1989-present<br/>
+		<b>Genres: </b>Rock, garage rock, garage punk<br/>
+		<b>Lables: </b>Disque Hives, No Fun, Octone, Interscope<br/>
+		<b>History: </b><span>The Hives are a Swedish rock band that first garnered attention in the early 2000s as a prominent group of the garage rock revival. Their mainstream success came with the release of the album Veni Vidi Vicious, featuring their most well-known song "Hate to Say I Told You So".</span>
+		
+		]]>
+	</string>
+
+
+</resources>
