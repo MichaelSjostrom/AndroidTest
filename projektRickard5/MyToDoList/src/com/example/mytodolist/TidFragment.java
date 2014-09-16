@@ -47,7 +47,7 @@ public class TidFragment extends ListFragment{
 	
 		//Här skrev micke väldigt nyss
 	/*************************VISSA BITAR******************************/
-
+		// Hejsan!
 	private DatabaseHandler db;
 	
 	private static final String TABLE_BANDS = "bands";
