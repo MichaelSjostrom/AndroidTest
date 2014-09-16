@@ -1,0 +1,3 @@
+INDEX VERSION 1.126+C:\Users\Rickard\AndroidTest\projektRickard5\MyToDoList\.metadata\.plugins\org.eclipse.jdt.core
+3370182269.index
+2443691523.index
